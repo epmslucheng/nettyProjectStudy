@@ -1,0 +1,11 @@
+/**
+  *  执行命令：protoc.exe --java_out=. Student.proto
+ */
+syntax = "proto3"; // 版本
+option java_outer_classname = "StudentPOJO"; // 生成外部类名，也是文件名
+// proto是以message 管理数据
+message Student {// 会在外部类studentPOJO，生成一个内部类Student，我们真正使用发送的是proto对象
+  int32 id = 1; // 属性， 1 表示属性序号，不是值
+  string name = 2;
+  sint64 code = 3;
+}
