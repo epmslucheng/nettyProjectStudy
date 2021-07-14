@@ -7,7 +7,7 @@ import java.util.Random;
 
 /**
  * @Description:
- * @Author 80320838
+ * @Author study
  **/
 public class NettyClientHandler extends ChannelInboundHandlerAdapter {
 

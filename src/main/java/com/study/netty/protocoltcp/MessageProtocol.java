@@ -2,7 +2,7 @@ package com.study.netty.protocoltcp;
 
 /**
  * @Description: 自定义协议
- * @Author 80320838
+ * @Author study
  **/
 public class MessageProtocol {
 

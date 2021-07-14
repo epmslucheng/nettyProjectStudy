@@ -5,7 +5,7 @@ import io.netty.channel.SimpleChannelInboundHandler;
 
 /**
  * @Description: 客户端执行器
- * @Author 80320838
+ * @Author study
  **/
 public class GroupChatClientHandler extends SimpleChannelInboundHandler<Msg> {
 

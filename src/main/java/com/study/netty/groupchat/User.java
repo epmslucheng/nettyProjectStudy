@@ -2,7 +2,7 @@ package com.study.netty.groupchat;
 
 /**
  * @Description: 用户
- * @Author 80320838
+ * @Author study
  **/
 public class User {
 

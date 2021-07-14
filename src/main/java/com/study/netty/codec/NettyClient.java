@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  * @Description:
- * @Author 80320838
+ * @Author study
  **/
 public class NettyClient {
     private final String ip;

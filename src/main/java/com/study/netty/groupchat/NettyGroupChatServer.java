@@ -11,7 +11,7 @@ import io.netty.handler.codec.serialization.ObjectEncoder;
 
 /**
  * @Description: netty群聊服务端
- * @Author 80320838
+ * @Author study
  **/
 public class NettyGroupChatServer {
 

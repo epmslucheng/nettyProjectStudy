@@ -8,7 +8,7 @@ import io.netty.util.CharsetUtil;
 
 /**
  * @Description:
- * @Author 80320838
+ * @Author study
  **/
 public class MyClientHandler extends SimpleChannelInboundHandler<ByteBuf> {
     private int i = 0;

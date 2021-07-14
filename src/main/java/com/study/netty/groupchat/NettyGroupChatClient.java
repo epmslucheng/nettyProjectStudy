@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  * @Description: 客户端
- * @Author 80320838
+ * @Author study
  **/
 public class NettyGroupChatClient {
     private final String ip;

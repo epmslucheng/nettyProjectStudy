@@ -13,7 +13,7 @@ import java.util.Map;
 
 /**
  * @Description: 执行器
- * @Author 80320838
+ * @Author study
  **/
 public class GroupChatServerHandler extends SimpleChannelInboundHandler<Msg> {
 

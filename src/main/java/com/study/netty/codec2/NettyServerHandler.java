@@ -5,7 +5,7 @@ import io.netty.channel.SimpleChannelInboundHandler;
 
 /**
  * @Description:
- * @Author 80320838
+ * @Author study
  **/
 public class NettyServerHandler extends SimpleChannelInboundHandler<MyDataInfo.myMessage> {
     @Override

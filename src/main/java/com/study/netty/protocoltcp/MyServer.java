@@ -7,7 +7,7 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
  * @Description:
- * @Author 80320838
+ * @Author study
  **/
 public class MyServer {
 

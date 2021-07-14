@@ -6,7 +6,7 @@ import io.netty.channel.socket.SocketChannel;
 
 /**
  * @Description:
- * @Author 80320838
+ * @Author study
  **/
 public class MyClientInitalizer extends ChannelInitializer<SocketChannel> {
 

@@ -10,7 +10,7 @@ import java.util.UUID;
 
 /**
  * @Description:
- * @Author 80320838
+ * @Author study
  **/
 public class MyServerHandler extends SimpleChannelInboundHandler<ByteBuf> {
 

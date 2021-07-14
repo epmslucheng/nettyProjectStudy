@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * @Description: 定义消息体
- * @Author 80320838
+ * @Author study
  **/
 public class Msg implements Serializable {
 
